@@ -1,2 +1,4 @@
-package Gun01;public class Okul {
+package Gun01;
+
+public class Okul {
 }
